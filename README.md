@@ -17,7 +17,7 @@ http://127.0.0.1:5500/#contato
  <nav>
             <ul>
                 <li><a href="#home">Home</a></li>
-                <li><a href="#sobremim">Sobremim</a></li>
+                <li><a href="#sobremim">Sobre mim</a></li>
                 <li><a href="#contato">Contato</a></li>
             </ul>
         </nav>
