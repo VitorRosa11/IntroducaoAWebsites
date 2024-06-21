@@ -52,10 +52,10 @@ http://127.0.0.1:5500/#contato
 <section id="contato">
             <h2>Contato</h2>
             <p>Veja os meus seguintes contatos de redes sociais e comunicação<p>Meu nome é Vitor, tenho 15 anos e este é meu portifólio pessoal.</p>
-     <p>WhatsApp: 9329-6838;</p>
+    <i> <p>WhatsApp: 9329-6838;</p>
  <p>Instagram: @vitorbatista11_03;</p>
 <p>GitHub: @VitorRosa11;</p>
-   <p>Twiter: @Vitorb09;</p>
+   <p>Twiter: @Vitorb09;</p> <\i>
      </section>
     </main>
 
